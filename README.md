@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**cactusviliv/cactusviliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cactus 🌵
 
-Here are some ideas to get you started:
+**Welcome to Cactus!** 우리는 한국에서 시작된 소프트웨어 예비창업기업으로, **viliv**가 곧 출시될 예정입니다. Cactus는 'Changmin Advanced Computer Technology for US'의 약자로, 우리는 컴퓨터 기술을 통해 세상을 더 나은 곳으로 만들고자 하는 꿈을 가지고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 비전
+Cactus에서는 기술이 인류의 삶을 어떻게 향상시킬 수 있는지 끊임없이 탐구합니다. 우리의 비전은 첨단 컴퓨터 기술을 이용하여 사람들의 일상 생활에 긍정적인 변화를 가져오는 것입니다. 우리는 이 기술을 통해 교육, 건강, 환경 등 다양한 분야에서 사회적 가치를 창출하고자 합니다.
+
+## 🌟 프로젝트 viliv, VIdeo Lecture Innovative Viewer
+- **viliv**는 우리가 곧 선보일 혁신적인 프로젝트입니다. 이 프로젝트는 사용자의 삶을 향상시키는 데 중점을 두고 개발되었습니다. 자세한 내용은 조만간 공개될 예정이니, 많은 관심 부탁드립니다!
+
+## 💡 우리가 추구하는 가치
+- **혁신**: 최첨단 기술을 통해 끊임없이 혁신을 추구합니다.
+- **사용자 중심**: 사용자의 필요와 경험을 최우선으로 생각합니다.
+- **사회적 가치**: 기술로 세상에 긍정적인 영향을 미치기 위해 노력합니다.
+
+
+우리와 함께 더 나은 세상을 만들어가요. Cactus가 꿈꾸는 미래에 여러분도 함께 하시길 바랍니다!
